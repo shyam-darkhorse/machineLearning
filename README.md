@@ -1,2 +1,3 @@
-# machineLearning
-Project done during training for AI lab
+# Data Analytics lab 
+
+This repo contains the python notebooks for **lab** exercises
